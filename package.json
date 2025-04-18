@@ -1,4 +1,5 @@
 {
+  "_comment": "This section defines the dependencies",
   "name": "hostel-management-server",
   "version": "1.0.0",
   "description": "",

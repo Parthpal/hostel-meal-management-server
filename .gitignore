@@ -1,1 +1,3 @@
 .vercel
+#ignore env
+.env

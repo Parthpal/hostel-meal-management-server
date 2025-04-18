@@ -1,5 +1,8 @@
+
 {
     "version": 2,
+    "_note": "Updated routes and build config",
+
     "builds": [
         {
             "src": "./index.js",

@@ -13,7 +13,7 @@ const corsConfig = {
   app.use(cors(corsConfig))
   app.use(express.json());
   
-
+//update
 // app.use(express.json());
 // app.use(cors())
 // app.use(express.json());
